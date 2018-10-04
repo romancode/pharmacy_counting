@@ -1,0 +1,5 @@
+com/insight/core/CommonUtils.class
+com/insight/entities/Prescriber.class
+com/insight/core/Parser.class
+com/insight/app/App.class
+com/insight/entities/Drug.class
